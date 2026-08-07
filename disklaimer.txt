@@ -9,6 +9,6 @@ Aplikasi berjalan sepenuhnya secara offline tanpa koneksi internet. Pengembang t
 Karena data tersimpan di perangkat Anda, pemeliharaan data serta pembuatan cadangan (backup) menjadi tanggung jawab penuh pengguna. Pengembang tidak bertanggung jawab atas kehilangan data akibat kerusakan perangkat, format ulang, atau kelalaian pengguna.
 
 4. Hak Cipta & Batasan Tanggung Jawab (As-Is)
-Aplikasi disediakan "Sebagaimana Adanya" (As-Is). Dilarang keras memperjualbelikan, memodifikasi, atau mendistribusikan ulang aplikasi ini tanpa izin tertulis dari pengembang. Pelanggaran atas ketentuan ini akan dituntut secara hukum yang berlaku, serta menghanguskan seluruh jaminan dan dukungan teknis bagi pihak yang melanggar. Pengembang tidak bertanggung jawab atas kerugian apa pun yang timbul akibat penggunaan aplikasi ini.
+Aplikasi disediakan "Sebagaimana Adanya" (As-Is). Dilarang keras memperjualbelikan, memodifikasi, atau mendistribusikan ulang aplikasi ini tanpa izin tertulis dari pengembang. Pelanggaran atas ketentuan ini akan dituntut secara hukum yang berlaku, serta menghanguskan seluruh jaminan dan dukungan teknis bagi pihak yang melanggar. Pengembang tidak bertanggung jawab atas kerugian apa pun yang timbul akibat update dari penggunaan aplikasi ini.
 
 (Dengan menekan tombol "Saya Setuju", Anda menyatakan telah membaca dan menyetujui seluruh ketentuan di atas.)
