@@ -1,0 +1,14 @@
+PENTING: PERSETUJUAN & DISKLAIMER PENGGUNAAN
+1. Jaminan Bebas Malware & Virus
+Aplikasi ini dikembangkan dan didistribusikan secara bersih, 100% bebas dari virus, malware, spyware, maupun kode berbahaya lainnya. Untuk menjamin keamanan, pastikan Anda selalu Mendapatkan aplikasi dari saluran resmi kami.
+
+2. Operasional Offline & Privasi Data
+Aplikasi berjalan sepenuhnya secara offline tanpa koneksi internet. Pengembang tidak pernah mengumpulkan, menyimpan, atau mengakses data Anda. Seluruh data tersimpan aman di dalam memori perangkat Anda sendiri.
+
+3. Tanggung Jawab Keamanan & Backup Data
+Karena data tersimpan di perangkat Anda, pemeliharaan data serta pembuatan cadangan (backup) menjadi tanggung jawab penuh pengguna. Pengembang tidak bertanggung jawab atas kehilangan data akibat kerusakan perangkat, format ulang, atau kelalaian pengguna.
+
+4. Hak Cipta & Batasan Tanggung Jawab (As-Is)
+Aplikasi disediakan "Sebagaimana Adanya" (As-Is). Dilarang keras memperjualbelikan, memodifikasi, atau mendistribusikan ulang aplikasi ini tanpa izin tertulis dari pengembang. Pelanggaran atas ketentuan ini akan dituntut secara hukum yang berlaku, serta menghanguskan seluruh jaminan dan dukungan teknis bagi pihak yang melanggar. Pengembang tidak bertanggung jawab atas kerugian apa pun yang timbul akibat penggunaan aplikasi ini.
+
+(Dengan menekan tombol "Saya Setuju", Anda menyatakan telah membaca dan menyetujui seluruh ketentuan di atas.)
