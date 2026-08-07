@@ -1,4 +1,4 @@
-PENTING: PERSETUJUAN & DISKLAIMER PENGGUNAAN
+(***) PENTING: PERSETUJUAN & DISKLAIMER PENGGUNAAN (***)
 1. Jaminan Bebas Malware & Virus
 Aplikasi ini dikembangkan dan didistribusikan secara bersih, 100% bebas dari virus, malware, spyware, maupun kode berbahaya lainnya. Untuk menjamin keamanan, pastikan Anda selalu Mendapatkan aplikasi dari saluran resmi kami.
 
